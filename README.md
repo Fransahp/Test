@@ -1,4 +1,4 @@
-# Recept på Blåbärspaj
+# Recept på Blåbärspaj 🥧
 Recept från: https://www.ica.se/recept/blabarspaj-1587/
 
 _____________________________________________________________________________________________________________
