@@ -1,4 +1,6 @@
-# Recept på Blåbärspaj 🥧
+_____________________________________________________________________________________________________________
+
+# Recept på smakrik och god Blåbärspaj 🥧
 Recept från: https://www.ica.se/recept/blabarspaj-1587/
 
 _____________________________________________________________________________________________________________
@@ -18,6 +20,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 ### Gör så här❓:
+
 - Sätt på ugnen på 200°C
 
 - Skölj och rensa blåbären. Blanda sedan dem med socker och potatismjöl.
@@ -25,3 +28,6 @@ ________________________________________________________________________________
 - Smält smöret till smuldegen. Rör sedan ner socker och mjöl, rör tills det blir en deg och låt svalna något.
 
 - Bottna en pajform med blåbären. Smula över degen. Grädda pajen 15-20 minuter i ugnen.
+
+##### TIPS! Sätt en timer på 15 minuter när du gräddar pajen och kolla då ifall 5 extra minuter behövs.
+_____________________________________________________________________________________________________________
