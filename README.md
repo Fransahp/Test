@@ -1,5 +1,8 @@
 # Recept på Blåbärspaj
 Recept från: https://www.ica.se/recept/blabarspaj-1587/
+
+
+
 ### Ingredienser:
 
 #### Fyllning
@@ -12,11 +15,13 @@ Recept från: https://www.ica.se/recept/blabarspaj-1587/
 - 3/4dl Socker
 - 3dl Vetemjöl
 
+
+
 ### Gör så här:
-[] Sätt på ugnen på 200°C
+[ ] Sätt på ugnen på 200°C
 
-[] Skölj och rensa blåbären. Blanda sedan dem med socker och potatismjöl.
+[ ] Skölj och rensa blåbären. Blanda sedan dem med socker och potatismjöl.
 
-[] Smält smöret till smuldegen. Rör sedan ner socker och mjöl, rör tills det blir en deg och låt svalna något.
+[ ] Smält smöret till smuldegen. Rör sedan ner socker och mjöl, rör tills det blir en deg och låt svalna något.
 
-[] Bottna en pajform med blåbären. Smula över degen. Grädda pajen 15-20 minuter i ugnen.
+[ ] Bottna en pajform med blåbären. Smula över degen. Grädda pajen 15-20 minuter i ugnen.
